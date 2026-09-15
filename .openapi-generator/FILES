@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .php-cs-fixer.dist.php
 .travis.yml
 README.md
@@ -28,11 +27,3 @@ lib/Model/TokenResponse.php
 lib/Model/TokenResponseData.php
 lib/ObjectSerializer.php
 phpunit.xml.dist
-test/Model/BalanceResponseDataTest.php
-test/Model/BalanceResponseTest.php
-test/Model/ServicesResponseDataServicesInnerTest.php
-test/Model/ServicesResponseDataTest.php
-test/Model/ServicesResponseTest.php
-test/Model/SuccessResponseTest.php
-test/Model/TokenResponseDataTest.php
-test/Model/TokenResponseTest.php

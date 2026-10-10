@@ -1,0 +1,11 @@
+# TransactionResponse
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | **string** |  | [optional]
+**data** | [**\OpenAPI\Client\Model\TransactionResponseData**](TransactionResponseData.md) |  | [optional]
+**meta** | [**\OpenAPI\Client\Model\ErrorResponseMeta**](ErrorResponseMeta.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

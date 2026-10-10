@@ -68,12 +68,24 @@ Class | Method | HTTP request | Description
 
 - [BalanceResponse](docs/Model/BalanceResponse.md)
 - [BalanceResponseData](docs/Model/BalanceResponseData.md)
+- [ErrorResponse](docs/Model/ErrorResponse.md)
+- [ErrorResponseError](docs/Model/ErrorResponseError.md)
+- [ErrorResponseMeta](docs/Model/ErrorResponseMeta.md)
+- [SellTradeCreatedResponse](docs/Model/SellTradeCreatedResponse.md)
+- [SellTradeCreatedResponseData](docs/Model/SellTradeCreatedResponseData.md)
+- [SellTradeCreatedResponseDataTransaction](docs/Model/SellTradeCreatedResponseDataTransaction.md)
+- [SellTradeStatusResponse](docs/Model/SellTradeStatusResponse.md)
+- [SellTradeStatusResponseData](docs/Model/SellTradeStatusResponseData.md)
+- [SellTradeStatusResponseDataTransaction](docs/Model/SellTradeStatusResponseDataTransaction.md)
 - [ServicesResponse](docs/Model/ServicesResponse.md)
 - [ServicesResponseData](docs/Model/ServicesResponseData.md)
 - [ServicesResponseDataServicesInner](docs/Model/ServicesResponseDataServicesInner.md)
 - [SuccessResponse](docs/Model/SuccessResponse.md)
 - [TokenResponse](docs/Model/TokenResponse.md)
 - [TokenResponseData](docs/Model/TokenResponseData.md)
+- [TransactionResponse](docs/Model/TransactionResponse.md)
+- [TransactionResponseData](docs/Model/TransactionResponseData.md)
+- [TransactionResponseDataTransaction](docs/Model/TransactionResponseDataTransaction.md)
 
 ## Authorization
 
